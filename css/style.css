@@ -1,0 +1,41 @@
+
+a{
+    text-decoration: none;
+}
+nav{
+    color: white;
+}
+#botao{
+    background-color: purple;
+    width: 80px;
+}
+#botao:hover{
+
+    background-color: purple;
+}
+.produto{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+#carouselExample{
+    margin-top: 155px;
+}
+#MarketPlace a{
+    color: rgb(48, 47, 47);
+    background-color: rgb(255, 255, 255);
+}
+.produto img{
+    width: 300px;
+    height: 430px;
+    
+}
+.produto:hover{
+    background-color: rgb(199, 199, 199);
+}
+header li:hover{
+    background-color: purple;
+}
+.square{
+    background-color: purple;
+    border: 2px solid black;
+}
