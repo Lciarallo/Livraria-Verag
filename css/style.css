@@ -28,6 +28,7 @@ nav{
     background-color: rgb(255, 255, 255);
 }
 .produto img{
+    padding-top: 30px;
     width: 200px;
     height: 330px;
     
